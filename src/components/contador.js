@@ -38,9 +38,9 @@ return(
   </div>
 </nav><br/>
 
- <p>voce clicou {count} vezes</p>
+<p>Voce Clicou {count} Vezes</p>
  <button onClick={() => setCount(count+1)}>
- clique aqui
+ CLIQUE AQUI !
  </button>
  </div>
  );
